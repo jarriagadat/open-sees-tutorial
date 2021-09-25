@@ -7,8 +7,7 @@ Repository with tutorials to learn OpenSees - The Open System for Earthquake Eng
 - https://apps.peer.berkeley.edu/products/opensees.html
 
 ## Tutorials
-+ OpenSees Training Workshops - 2017
-https://wiki.canterbury.ac.nz/display/QuakeCore/OpenSees+Training+Workshops+-+2017#space-menu-link-content
+- Getting started https://opensees.berkeley.edu/wiki/index.php/Getting_Started
+- OpenSees Training Workshops - 2017 https://wiki.canterbury.ac.nz/display/QuakeCore/OpenSees+Training+Workshops+-+2017#space-menu-link-content
+- video tutorial https://www.youtube.com/watch?v=iqMFxoFzVnA
 
-+ videos
-https://www.youtube.com/watch?v=iqMFxoFzVnA
