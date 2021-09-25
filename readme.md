@@ -2,9 +2,9 @@
 
 Repository with tutorials to learn OpenSees - The Open System for Earthquake Engineering Simulation
 
-+ OpenSees web page
-https://opensees.berkeley.edu/
-https://apps.peer.berkeley.edu/products/opensees.html
+# OpenSees web page
+- https://opensees.berkeley.edu/
+- https://apps.peer.berkeley.edu/products/opensees.html
 
 ## Tutorials
 + OpenSees Training Workshops - 2017
